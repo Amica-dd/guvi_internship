@@ -1,0 +1,6 @@
+/* Simple extra styles */
+body { background-color: #0b0f12; color: #e5e7eb; }
+.container { background-color: #111827; border-radius: 12px; margin-top: 3rem; }
+label { color: #cbd5e1; }
+.form-control:disabled { background-color: #0f172a; color: #cbd5e1; }
+.alert { margin-top: .75rem; }
